@@ -71,6 +71,9 @@ class HomePage extends StatelessWidget{
                       gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2),
                       children:  [
                          InkWell(
+                           onTap: ()=>{
+                             Navigator.pushNamed(context, "/starttest")
+                           },
                            child: Container(
                             height: 100,
                             width: 100,
@@ -85,6 +88,9 @@ class HomePage extends StatelessWidget{
                         ),
                          ),
                         InkWell(
+                          onTap: ()=>{
+                            Navigator.pushNamed(context, "/starttest")
+                          },
                           child: Container(
                             height: 100,
                             width: 100,
@@ -99,6 +105,9 @@ class HomePage extends StatelessWidget{
                           ),
                         ),
                         InkWell(
+                          onTap: ()=>{
+                            Navigator.pushNamed(context, "/starttest")
+                          },
                           child: Container(
                             height: 100,
                             width: 100,
@@ -113,6 +122,9 @@ class HomePage extends StatelessWidget{
                           ),
                         ),
                         InkWell(
+                          onTap: ()=>{
+                            Navigator.pushNamed(context, "/starttest")
+                          },
                           child: Container(
                             height: 100,
                             width: 100,
@@ -127,6 +139,9 @@ class HomePage extends StatelessWidget{
                           ),
                         ),
                         InkWell(
+                          onTap: ()=>{
+                            Navigator.pushNamed(context, "/starttest")
+                          },
                           child: Container(
                             height: 100,
                             width: 100,

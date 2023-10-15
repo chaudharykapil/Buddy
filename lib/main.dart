@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           appBarTheme: AppBarTheme(
-            color: Colors.deepOrangeAccent,
+            color: Colors.lightGreen,
           )
         ),
         initialRoute: "/",
