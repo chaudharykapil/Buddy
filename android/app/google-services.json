@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285446630202",
+    "project_id": "buddy-cb580",
+    "storage_bucket": "buddy-cb580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285446630202:android:d95d29658088ddc2f1fe03",
+        "android_client_info": {
+          "package_name": "com.buddy.buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_zzE1QqTG8momIj34Wvlpfnk49i-H3jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

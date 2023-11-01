@@ -16,7 +16,7 @@ class OmrRowState extends State<OmrRow> {
     setState(() {
       ans = value;
     });
-    widget.onselectans(value);
+    widget.onselectans(widget.ques,value);
   }
   @override
   Widget build(BuildContext context) {
